@@ -21,4 +21,4 @@ Depending on how you are executing the script, leave sudo in or take it out.
 - Inserts the IP's with allow statements above the deny all line.     
 - Executes above for each Nginx configuration file.    
 - Reloads Nginx to apply the changes.     
-## Contact: lozlofcyber@gmail.com    
+## Contact: contact@gistyr.dev    
